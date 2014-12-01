@@ -1,0 +1,203 @@
+﻿.itemdetailpage section[role=main] {
+    -ms-grid-row: 1;
+    -ms-grid-row-span: 2;
+}
+
+.itemdetailpage .groupeditemslist {
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: 0;
+}
+
+    /* This selector is used to prevent ui-dark/light.css from overwriting changes
+       to .win-surface. */
+    .itemdetailpage .groupeditemslist .win-horizontal.win-viewport .win-surface {
+        margin-bottom: 60px;
+        margin-left: 116px;
+        margin-right: 115px;
+        margin-top: 128px;
+    }
+
+    .itemdetailpage .groupeditemslist .win-groupheader {
+        padding: 0;
+    }
+
+    /* Use grid and top level layout for truncation */
+    .itemdetailpage .groupeditemslist .group-header {
+        -ms-grid-columns: minmax(0, max-content) 7px max-content;
+        -ms-grid-rows: max-content;
+        display: -ms-inline-grid;
+        line-height: 1.5;
+    }
+
+    /* Override default button styles */
+    .itemdetailpage .groupeditemslist .group-header, .group-header:hover, .group-header:hover:active {
+        background: transparent;
+        border: 0;
+        margin-bottom: 1px;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 1px;
+        min-height: 0;
+        padding: 0;
+    }
+
+        .itemdetailpage .groupeditemslist .group-header .group-title {
+            display: inline-block;
+        }
+
+        .itemdetailpage .groupeditemslist .group-header .group-chevron {
+            -ms-grid-column: 3;
+            display: inline-block;
+        }
+
+            .itemdetailpage .groupeditemslist .group-header .group-chevron::before {
+                content: "\E26B";
+                font-family: 'Segoe UI Symbol';
+            }
+
+    .itemdetailpage .groupeditemslist .item {
+        -ms-grid-columns: 1fr;
+        -ms-grid-rows: 1fr 60px;
+        display: -ms-grid;
+        height: 220px;
+        width: 300px;
+        background-color: white;
+    }
+
+        .itemdetailpage .groupeditemslist .item .item-image {
+            -ms-grid-row-span: 2;
+            /*height: 360px;*/
+        }
+
+        .itemdetailpage .groupeditemslist .item .item-overlay {
+            -ms-grid-row: 2;
+            -ms-grid-rows: 20px 1fr;
+            -ms-grid-columns: 1fr;
+            display: -ms-grid;
+            padding: 6px 15px 2px 15px;
+        }
+
+        .itemdetailpage .groupeditemslist .item .item-image2 {
+            -ms-grid-row: 2;
+            -ms-grid-row-span: 2;
+            width: 300px;
+            height: 60px;
+        }
+
+        .itemdetailpage .groupeditemslist .item .item-overlay .item-title {
+            -ms-grid-row: 1;
+            font-size: 15px;
+        }
+
+        .itemdetailpage .groupeditemslist .item .item-overlay .item-subtitle {
+            -ms-grid-row: 2;
+            font-size: 13px;
+        }
+
+@media screen and (-ms-view-state: fullscreen-landscape), screen and (-ms-view-state: fullscreen-portrait), screen and (-ms-view-state: filled) {
+    .itemdetailpage .groupeditemslist .item .item-overlay {
+        /*background: rgba(0,0,0,0.65);*/
+    }
+
+        .itemdetailpage .groupeditemslist .item .item-overlay .item-title {
+            color: rgba(255,255,255,0.87);
+        }
+
+        .itemdetailpage .groupeditemslist .item .item-overlay .item-subtitle {
+            color: rgba(255,255,255,0.87);
+        }
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) and (-ms-high-contrast), screen and (-ms-view-state: fullscreen-portrait) and (-ms-high-contrast), screen and (-ms-view-state: filled) and (-ms-high-contrast) {
+    .itemdetailpage .groupeditemslist .item .item-overlay {
+        color: WindowText;
+    }
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .itemdetailpage section[role=main] {
+        -ms-grid-row: 2;
+        -ms-grid-row-span: 1;
+    }
+
+    .itemdetailpage .groupeditemslist .win-vertical.win-viewport .win-surface {
+        margin-bottom: 30px;
+        margin-top: 0;
+    }
+
+    .itemdetailpage .groupeditemslist .win-container {
+        margin-bottom: 15px;
+        margin-left: 20px;
+        margin-right: 35px;
+        padding: 7px;
+        background-color: #0174DF;
+    }
+
+    .itemdetailpage .groupeditemslist .item {
+        -ms-grid-columns: 60px 1fr;
+        -ms-grid-rows: 1fr;
+        display: -ms-grid;
+        height: 60px;
+        width: 272px;
+        background-color: #0174DF;
+    }
+
+        .itemdetailpage .groupeditemslist .item .item-image {
+            -ms-grid-column: 1;
+            -ms-grid-row-span: 1;
+            height: 60px;
+            width: 60px;
+        }
+
+        .itemdetailpage .groupeditemslist .item .item-image2 {
+            -ms-grid-row: 2;
+            -ms-grid-row-span: 2;
+            width: 300px;
+            height: 60px;
+            background-color: #0174DF;
+        }
+
+        .itemdetailpage .groupeditemslist .item .item-overlay {
+            -ms-grid-column: 2;
+            -ms-grid-row: 1;
+            -ms-grid-row-align: stretch;
+            background-color: #0174DF;
+            display: inline-block;
+            margin-left: 10px;
+            padding: 0;
+        }
+
+            .itemdetailpage .groupeditemslist .item .item-overlay .item-title {
+                margin-top: 4px;
+                max-height: 40px;
+                width: 202px;
+                font-size: 15px;
+            }
+
+            .itemdetailpage .groupeditemslist .item .item-overlay .item-subtitle {
+                opacity: 0.6;
+                width: 202px;
+                font-size: 13px;
+            }
+
+    .itemdetailpage .item-image2 {
+        display: none;
+    }
+
+    .itemdetailpage .logo {
+    -ms-grid-column: 3;
+    float: left;
+    margin-right: 120px;
+    margin-top: 25px;
+    display:none;
+    /*position: fixed;*/
+}
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+    .itemdetailpage .groupeditemslist .win-horizontal.win-viewport .win-surface {
+        margin-left: 96px;
+    }
+}

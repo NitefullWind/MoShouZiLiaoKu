@@ -1,0 +1,689 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZZF_PC</Machine>
+    <WindowsUser>NitefullWind</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>60915NitefullWind.44471F768BB77</PackageIdentityName>
+    <IntermediateOutputPath>E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>28442A13E9861B9D835D59DC501BC109EB47CB6964717A0EFC9008DBE7A174BC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>60915NitefullWind.44471F768BB77_1.1.0.0_neutral__t2mcy90jvtev6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>60915NitefullWind.44471F768BB77_t2mcy90jvtev6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>60915NitefullWind.44471F768BB77</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=CBFBC82F-9D18-48AA-BD9E-BAD68DB4EC62</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-30T09:07:27.210</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.exe">
+      <PackagePath>ChannelMTemplate.exe</PackagePath>
+      <Modified>2014-11-30T13:20:12.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\AppLogo.png">
+      <PackagePath>Assets\AppLogo.png</PackagePath>
+      <Modified>2014-11-27T14:44:10.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\appLogo.png">
+      <PackagePath>Assets\Images\appLogo.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\BtnPlay.png">
+      <PackagePath>Assets\Images\BtnPlay.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\fullscreen.png">
+      <PackagePath>Assets\Images\fullscreen.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\NewsImageForList.png">
+      <PackagePath>Assets\Images\NewsImageForList.png</PackagePath>
+      <Modified>2014-11-28T08:42:32.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\pause.png">
+      <PackagePath>Assets\Images\pause.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\playNor.png">
+      <PackagePath>Assets\Images\playNor.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\play.png">
+      <PackagePath>Assets\Images\play.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\setting.png">
+      <PackagePath>Assets\Images\setting.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\thumb.png">
+      <PackagePath>Assets\Images\thumb.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\upArrow.png">
+      <PackagePath>Assets\Images\upArrow.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\VideoImageForList.png">
+      <PackagePath>Assets\Images\VideoImageForList.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\volumeNor.png">
+      <PackagePath>Assets\Images\volumeNor.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\volumeSel.png">
+      <PackagePath>Assets\Images\volumeSel.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-29T12:30:45.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-30T03:15:17.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-29T12:26:44.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-29T12:31:24.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-29T12:31:56.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\VideoImages\2.png">
+      <PackagePath>Assets\VideoImages\2.png</PackagePath>
+      <Modified>2014-11-28T08:13:48.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\VideoImages\3.png">
+      <PackagePath>Assets\VideoImages\3.png</PackagePath>
+      <Modified>2014-11-28T08:13:48.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\VideoImages\4.png">
+      <PackagePath>Assets\VideoImages\4.png</PackagePath>
+      <Modified>2014-11-28T08:13:48.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\VideoImages\5.png">
+      <PackagePath>Assets\VideoImages\5.png</PackagePath>
+      <Modified>2014-11-28T08:13:48.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\VideoImages\6.png">
+      <PackagePath>Assets\VideoImages\6.png</PackagePath>
+      <Modified>2014-11-28T08:13:48.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\VideoImages\1.png">
+      <PackagePath>Assets\VideoImages\1.png</PackagePath>
+      <Modified>2014-11-28T08:08:42.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\widelogo.scale-100.png">
+      <PackagePath>Assets\widelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-29T12:29:55.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\AllImage.jpg">
+      <PackagePath>Assets\Images\AllImage.jpg</PackagePath>
+      <Modified>2014-11-28T08:37:53.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\artNor.jpg">
+      <PackagePath>Assets\Images\artNor.jpg</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\artSelected.jpg">
+      <PackagePath>Assets\Images\artSelected.jpg</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\background.jpg">
+      <PackagePath>Assets\Images\background.jpg</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\background1.jpg">
+      <PackagePath>Assets\Images\background1.jpg</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\Bg.jpg">
+      <PackagePath>Assets\Images\Bg.jpg</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\BigLiveTile1.jpg">
+      <PackagePath>Assets\Images\BigLiveTile1.jpg</PackagePath>
+      <Modified>2012-10-29T11:06:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\BigLiveTile2.jpg">
+      <PackagePath>Assets\Images\BigLiveTile2.jpg</PackagePath>
+      <Modified>2012-10-29T11:06:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\helping-hands.jpg">
+      <PackagePath>Assets\Images\helping-hands.jpg</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\NewsImage.jpg">
+      <PackagePath>Assets\Images\NewsImage.jpg</PackagePath>
+      <Modified>2014-11-30T07:47:44.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\NewsImage1.jpg">
+      <PackagePath>Assets\Images\NewsImage1.jpg</PackagePath>
+      <Modified>2014-11-30T03:25:06.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\SmallLiveTile1.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile1.jpg</PackagePath>
+      <Modified>2012-10-29T11:06:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\SmallLiveTile2.jpg">
+      <PackagePath>Assets\Images\SmallLiveTile2.jpg</PackagePath>
+      <Modified>2012-10-29T11:06:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\videoIcon.jpg">
+      <PackagePath>Assets\Images\videoIcon.jpg</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\videoIconsel.jpg">
+      <PackagePath>Assets\Images\videoIconsel.jpg</PackagePath>
+      <Modified>2012-10-15T03:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\VideoImage.jpg">
+      <PackagePath>Assets\Images\VideoImage.jpg</PackagePath>
+      <Modified>2014-11-28T08:39:43.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Images\VideoNewsBig.jpg">
+      <PackagePath>Assets\Images\VideoNewsBig.jpg</PackagePath>
+      <Modified>2013-02-06T06:50:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\永恒之井.jpg">
+      <PackagePath>Assets\NovelImages\永恒之井.jpg</PackagePath>
+      <Modified>2014-11-27T14:18:01.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\天崩地裂.jpg">
+      <PackagePath>Assets\NovelImages\天崩地裂.jpg</PackagePath>
+      <Modified>2014-11-27T14:16:00.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\恶魔之魂.jpg">
+      <PackagePath>Assets\NovelImages\恶魔之魂.jpg</PackagePath>
+      <Modified>2014-11-26T16:14:46.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\仇恨之轮.jpg">
+      <PackagePath>Assets\NovelImages\仇恨之轮.jpg</PackagePath>
+      <Modified>2014-11-26T16:13:31.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\战争之潮.jpg">
+      <PackagePath>Assets\NovelImages\战争之潮.jpg</PackagePath>
+      <Modified>2014-11-27T14:18:24.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\浩劫的前奏.jpg">
+      <PackagePath>Assets\NovelImages\浩劫的前奏.jpg</PackagePath>
+      <Modified>2014-11-26T16:17:31.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\巨龙之夜.jpg">
+      <PackagePath>Assets\NovelImages\巨龙之夜.jpg</PackagePath>
+      <Modified>2014-11-27T14:13:15.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\巨龙时代.jpg">
+      <PackagePath>Assets\NovelImages\巨龙时代.jpg</PackagePath>
+      <Modified>2014-11-26T16:23:41.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\怒风.jpg">
+      <PackagePath>Assets\NovelImages\怒风.jpg</PackagePath>
+      <Modified>2014-11-27T14:15:06.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\最后的守护者.jpg">
+      <PackagePath>Assets\NovelImages\最后的守护者.jpg</PackagePath>
+      <Modified>2014-11-27T14:19:13.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\氏族之王.jpg">
+      <PackagePath>Assets\NovelImages\氏族之王.jpg</PackagePath>
+      <Modified>2014-11-27T14:15:33.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\狼族之心.jpg">
+      <PackagePath>Assets\NovelImages\狼族之心.jpg</PackagePath>
+      <Modified>2014-11-27T14:13:54.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\龙王之暮.jpg">
+      <PackagePath>Assets\NovelImages\龙王之暮.jpg</PackagePath>
+      <Modified>2014-11-27T14:14:20.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\血与荣耀.jpg">
+      <PackagePath>Assets\NovelImages\血与荣耀.jpg</PackagePath>
+      <Modified>2014-11-27T14:17:22.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\诅咒之路.jpg">
+      <PackagePath>Assets\NovelImages\诅咒之路.jpg</PackagePath>
+      <Modified>2014-11-27T14:18:46.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\部落的崛起.jpg">
+      <PackagePath>Assets\NovelImages\部落的崛起.jpg</PackagePath>
+      <Modified>2014-11-26T16:09:19.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\巫妖王的崛起.jpg">
+      <PackagePath>Assets\NovelImages\巫妖王的崛起.jpg</PackagePath>
+      <Modified>2014-11-27T14:16:39.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\黑暗之潮.jpg">
+      <PackagePath>Assets\NovelImages\黑暗之潮.jpg</PackagePath>
+      <Modified>2014-11-26T16:19:19.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\NovelImages\黑暗之门.jpg">
+      <PackagePath>Assets\NovelImages\黑暗之门.jpg</PackagePath>
+      <Modified>2014-11-26T16:23:13.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Square310x310Logo.scale-100.jpg">
+      <PackagePath>Assets\Square310x310Logo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-29T12:28:22.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\1.jpg">
+      <PackagePath>Assets\TimeImages\1.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\10.jpg">
+      <PackagePath>Assets\TimeImages\10.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\11.jpg">
+      <PackagePath>Assets\TimeImages\11.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.601</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\12.jpg">
+      <PackagePath>Assets\TimeImages\12.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\13.jpg">
+      <PackagePath>Assets\TimeImages\13.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\14.jpg">
+      <PackagePath>Assets\TimeImages\14.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\15.jpg">
+      <PackagePath>Assets\TimeImages\15.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\16.jpg">
+      <PackagePath>Assets\TimeImages\16.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\17.jpg">
+      <PackagePath>Assets\TimeImages\17.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\18.jpg">
+      <PackagePath>Assets\TimeImages\18.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\19.jpg">
+      <PackagePath>Assets\TimeImages\19.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\2.jpg">
+      <PackagePath>Assets\TimeImages\2.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\20.jpg">
+      <PackagePath>Assets\TimeImages\20.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\21.jpg">
+      <PackagePath>Assets\TimeImages\21.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\22.jpg">
+      <PackagePath>Assets\TimeImages\22.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\23.jpg">
+      <PackagePath>Assets\TimeImages\23.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\24.jpg">
+      <PackagePath>Assets\TimeImages\24.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\25.jpg">
+      <PackagePath>Assets\TimeImages\25.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\26.jpg">
+      <PackagePath>Assets\TimeImages\26.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\27.jpg">
+      <PackagePath>Assets\TimeImages\27.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\28.jpg">
+      <PackagePath>Assets\TimeImages\28.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\29.jpg">
+      <PackagePath>Assets\TimeImages\29.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\3.jpg">
+      <PackagePath>Assets\TimeImages\3.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\30.jpg">
+      <PackagePath>Assets\TimeImages\30.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\31.jpg">
+      <PackagePath>Assets\TimeImages\31.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\32.jpg">
+      <PackagePath>Assets\TimeImages\32.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\33.jpg">
+      <PackagePath>Assets\TimeImages\33.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\34.jpg">
+      <PackagePath>Assets\TimeImages\34.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\35.jpg">
+      <PackagePath>Assets\TimeImages\35.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\36.jpg">
+      <PackagePath>Assets\TimeImages\36.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\37.jpg">
+      <PackagePath>Assets\TimeImages\37.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\38.jpg">
+      <PackagePath>Assets\TimeImages\38.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\39.jpg">
+      <PackagePath>Assets\TimeImages\39.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\4.jpg">
+      <PackagePath>Assets\TimeImages\4.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\40.jpg">
+      <PackagePath>Assets\TimeImages\40.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\41.jpg">
+      <PackagePath>Assets\TimeImages\41.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\42.jpg">
+      <PackagePath>Assets\TimeImages\42.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\43.jpg">
+      <PackagePath>Assets\TimeImages\43.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\44.jpg">
+      <PackagePath>Assets\TimeImages\44.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\45.jpg">
+      <PackagePath>Assets\TimeImages\45.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\46.jpg">
+      <PackagePath>Assets\TimeImages\46.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.105</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\47.jpg">
+      <PackagePath>Assets\TimeImages\47.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\48.jpg">
+      <PackagePath>Assets\TimeImages\48.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\49.jpg">
+      <PackagePath>Assets\TimeImages\49.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.266</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\5.jpg">
+      <PackagePath>Assets\TimeImages\5.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\50.jpg">
+      <PackagePath>Assets\TimeImages\50.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\51.jpg">
+      <PackagePath>Assets\TimeImages\51.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\52.jpg">
+      <PackagePath>Assets\TimeImages\52.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\53.jpg">
+      <PackagePath>Assets\TimeImages\53.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\54.jpg">
+      <PackagePath>Assets\TimeImages\54.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\55.jpg">
+      <PackagePath>Assets\TimeImages\55.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\56.jpg">
+      <PackagePath>Assets\TimeImages\56.jpg</PackagePath>
+      <Modified>2014-11-22T16:19:01.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\57.jpg">
+      <PackagePath>Assets\TimeImages\57.jpg</PackagePath>
+      <Modified>2014-11-22T16:28:57.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\6.jpg">
+      <PackagePath>Assets\TimeImages\6.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\7.jpg">
+      <PackagePath>Assets\TimeImages\7.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\8.jpg">
+      <PackagePath>Assets\TimeImages\8.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeImages\9.jpg">
+      <PackagePath>Assets\TimeImages\9.jpg</PackagePath>
+      <Modified>2014-11-21T17:36:08.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\仇恨之轮.txt">
+      <PackagePath>Assets\Novel\仇恨之轮.txt</PackagePath>
+      <Modified>2014-11-27T15:50:54.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\吉安娜·普罗德摩尔：战争之潮.txt">
+      <PackagePath>Assets\Novel\吉安娜·普罗德摩尔：战争之潮.txt</PackagePath>
+      <Modified>2014-11-27T15:15:09.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\巨龙时代.txt">
+      <PackagePath>Assets\Novel\巨龙时代.txt</PackagePath>
+      <Modified>2014-11-27T15:52:12.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\上古三部曲一：永恒之井.txt">
+      <PackagePath>Assets\Novel\上古三部曲一：永恒之井.txt</PackagePath>
+      <Modified>2014-11-27T15:53:52.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\上古三部曲二：恶魔之魂.txt">
+      <PackagePath>Assets\Novel\上古三部曲二：恶魔之魂.txt</PackagePath>
+      <Modified>2014-11-27T15:53:34.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\上古三部曲三：天崩地裂.txt">
+      <PackagePath>Assets\Novel\上古三部曲三：天崩地裂.txt</PackagePath>
+      <Modified>2014-11-27T15:53:44.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\巨龙之夜.txt">
+      <PackagePath>Assets\Novel\巨龙之夜.txt</PackagePath>
+      <Modified>2014-11-27T15:52:20.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\部落的崛起.txt">
+      <PackagePath>Assets\Novel\部落的崛起.txt</PackagePath>
+      <Modified>2014-11-27T15:50:43.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\黑暗之潮.txt">
+      <PackagePath>Assets\Novel\黑暗之潮.txt</PackagePath>
+      <Modified>2014-11-27T15:51:03.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\黑暗之门.txt">
+      <PackagePath>Assets\Novel\黑暗之门.txt</PackagePath>
+      <Modified>2014-11-27T15:51:30.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\阿尔萨斯：巫妖王的崛起.txt">
+      <PackagePath>Assets\Novel\阿尔萨斯：巫妖王的崛起.txt</PackagePath>
+      <Modified>2014-11-27T15:50:24.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\怒风.txt">
+      <PackagePath>Assets\Novel\怒风.txt</PackagePath>
+      <Modified>2014-11-27T15:52:54.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\天崩地裂：浩劫的前奏.txt">
+      <PackagePath>Assets\Novel\天崩地裂：浩劫的前奏.txt</PackagePath>
+      <Modified>2014-11-27T15:54:14.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\萨尔：龙王之暮.txt">
+      <PackagePath>Assets\Novel\萨尔：龙王之暮.txt</PackagePath>
+      <Modified>2014-11-27T15:53:04.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\狼族之心.txt">
+      <PackagePath>Assets\Novel\狼族之心.txt</PackagePath>
+      <Modified>2014-11-28T06:43:49.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\最后的守护者.txt">
+      <PackagePath>Assets\Novel\最后的守护者.txt</PackagePath>
+      <Modified>2014-11-27T15:55:00.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\氏族之王.txt">
+      <PackagePath>Assets\Novel\氏族之王.txt</PackagePath>
+      <Modified>2014-11-27T15:54:00.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\血与荣耀.txt">
+      <PackagePath>Assets\Novel\血与荣耀.txt</PackagePath>
+      <Modified>2014-11-27T15:54:23.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Novel\诅咒之路.txt">
+      <PackagePath>Assets\Novel\诅咒之路.txt</PackagePath>
+      <Modified>2014-11-27T15:54:32.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\TimeList\时间线.txt">
+      <PackagePath>Assets\TimeList\时间线.txt</PackagePath>
+      <Modified>2014-11-21T18:17:25.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Videos\《魔兽世界》.mp4">
+      <PackagePath>Assets\Videos\《魔兽世界》.mp4</PackagePath>
+      <Modified>2014-11-21T07:56:58.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Videos\《魔兽世界：大地的裂变》.mp4">
+      <PackagePath>Assets\Videos\《魔兽世界：大地的裂变》.mp4</PackagePath>
+      <Modified>2014-08-12T08:51:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Videos\《魔兽世界：巫妖王之怒》.mp4">
+      <PackagePath>Assets\Videos\《魔兽世界：巫妖王之怒》.mp4</PackagePath>
+      <Modified>2014-08-12T08:52:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Videos\《魔兽世界：德拉诺之王》.mp4">
+      <PackagePath>Assets\Videos\《魔兽世界：德拉诺之王》.mp4</PackagePath>
+      <Modified>2014-08-14T17:39:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Videos\《魔兽世界：熊猫人之谜》.mp4">
+      <PackagePath>Assets\Videos\《魔兽世界：熊猫人之谜》.mp4</PackagePath>
+      <Modified>2014-08-12T08:52:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\Assets\Videos\《魔兽世界：燃烧的远征》.mp4">
+      <PackagePath>Assets\Videos\《魔兽世界：燃烧的远征》.mp4</PackagePath>
+      <Modified>2014-08-12T08:52:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\ArticlesDetail.xbf">
+      <PackagePath>ArticlesDetail.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\HistoryDetail.xbf">
+      <PackagePath>HistoryDetail.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\AboutUs.xbf">
+      <PackagePath>SettingsFlyouts\AboutUs.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\ContactUs.xbf">
+      <PackagePath>SettingsFlyouts\ContactUs.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\PrivacyPolicy.xbf">
+      <PackagePath>SettingsFlyouts\PrivacyPolicy.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\TermsAndConditions.xbf">
+      <PackagePath>SettingsFlyouts\TermsAndConditions.xbf</PackagePath>
+      <Modified>2014-11-30T03:51:32.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\VidesDetail.xbf">
+      <PackagePath>VidesDetail.xbf</PackagePath>
+      <Modified>2014-11-30T09:28:52.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.xr.xml">
+      <PackagePath>ChannelMTemplate.xr.xml</PackagePath>
+      <Modified>2014-11-30T07:12:07.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-30T09:07:26.647</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

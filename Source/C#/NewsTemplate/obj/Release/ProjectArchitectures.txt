@@ -1,0 +1,1 @@
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\NewsTemplate.csproj;neutral

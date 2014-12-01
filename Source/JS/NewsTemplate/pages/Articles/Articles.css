@@ -1,0 +1,121 @@
+﻿.Articles p {
+    margin-left: 120px;
+}
+
+.Snapview {
+    display: none;
+    width: 290px;
+}
+
+.Articles .MainDiv {
+    margin-left: 120px;
+    width: 1089px;
+    height: 500px;
+    -ms-grid-columns: 300px 10px 779px 1fr;
+    display: -ms-grid;
+}
+
+    .Articles .MainDiv .ListBanner {
+        height: 500px;
+        -ms-grid-column: 1;
+    }
+
+    .Articles .MainDiv .ProdBanner {
+        height: 490px;
+        -ms-grid-column: 3;
+        background: #fff;
+    }
+
+.Articles .ListinnerDiv {
+    width: 294px;
+    height: 64px;
+    border: #00afdc solid 4px;
+    background: url(../../images/Articles/aitbg.png) no-repeat;
+    margin: 0px 0px 12px 0px;
+}
+
+    .Articles .ListinnerDiv:hover {
+        width: 294px;
+        height: 64px;
+        border: #00afdc solid 4px;
+        background: url(../../images/Articles/aitbgHover.png) no-repeat;
+        margin: 0px 0px 12px 0px;
+    }
+
+.Articles .ListImagesDiv {
+    width: auto;
+    height: auto;
+    float: left;
+}
+
+.Articles .ListTextDiv {
+    width: 230px;
+    height: auto;
+    float: left;
+    font-size: 16px;
+    color: #000;
+    margin: 6px 0px 0px 0px;
+}
+
+.Articles .LissBotticonDiv {
+    width: auto;
+    height: auto;
+    float: right;
+    margin: 0px 10px 0px 0px;
+}
+
+.Articles .productDiv {
+    width: 769px;
+    height: 60px;
+    float: left;
+    background: #00afdc;
+    font-size: 25px;
+    color: #fff;
+    padding: 15px 0px 0px 10px;
+    margin: 0px 0px 15px 0px;
+}
+
+.Articles .productImagesDiv {
+    width: auto;
+    height: 400px;
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+
+.Articles .producttextDiv {
+    width: 570px;
+    height: 400px;
+    float: left;
+    font-size: 14px;
+    color: #000;
+    padding: 0px 10px 0px 10px;
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .Articles section[role=main] {
+        margin-left: 20px;
+    }
+
+    .Articles .MainDiv {
+        margin-left: 120px;
+        width: 1089px;
+        height: 500px;
+        -ms-grid-columns: 300px 10px 779px 1fr;
+        display: none;
+    }
+
+    .Snapview {
+        display: block;
+        font-size: 24px;
+        margin-top: 75%;
+    }
+
+    .logo {
+        -ms-grid-column: 3;
+        float: left;
+        margin-right: 120px;
+        margin-top: 25px;
+        display: none;
+        /*position: fixed;*/
+    }
+}

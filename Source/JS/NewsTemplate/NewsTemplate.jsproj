@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>aad2d0de-6d61-40e5-b413-c1e18a90c1d7</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
+    <VisualStudioVersion>11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetPlatformVersion>8.0</TargetPlatformVersion>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <PackageCertificateKeyFile>NewsTemplate_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="css\default.css" />
+    <Content Include="images\AppLogo.png" />
+    <Content Include="images\Articles\aitbg.png" />
+    <Content Include="images\Articles\aitbgHover.png" />
+    <Content Include="images\Articles\NewsImageForList.png" />
+    <Content Include="images\Articles\pici.png" />
+    <Content Include="images\BigLiveTile1.jpg" />
+    <Content Include="images\BigLiveTile2.jpg" />
+    <Content Include="images\Images\AllImage.jpg" />
+    <Content Include="images\Images\appLogo.png" />
+    <Content Include="images\Images\artNor.jpg" />
+    <Content Include="images\Images\artSelected.jpg" />
+    <Content Include="images\Images\background.jpg" />
+    <Content Include="images\Images\background1.jpg" />
+    <Content Include="images\Images\Bg.jpg" />
+    <Content Include="images\Images\BtnPlay.png" />
+    <Content Include="images\Images\fullscreen.png" />
+    <Content Include="images\Images\green.png" />
+    <Content Include="images\Images\helping-hands.jpg" />
+    <Content Include="images\Images\NewsImage.jpg" />
+    <Content Include="images\Images\NewsImage1.png" />
+    <Content Include="images\Images\NewsImage2.png" />
+    <Content Include="images\Images\NewsImage3.png" />
+    <Content Include="images\Images\NewsImageForList.png" />
+    <Content Include="images\Images\orange.png" />
+    <Content Include="images\Images\pause.png" />
+    <Content Include="images\Images\pauseOnPress.png" />
+    <Content Include="images\Images\playNor.png" />
+    <Content Include="images\Images\playOnPress.png" />
+    <Content Include="images\Images\Red.png" />
+    <Content Include="images\Images\setting.png" />
+    <Content Include="images\Images\thumb.png" />
+    <Content Include="images\Images\upArrow.png" />
+    <Content Include="images\Images\videoIcon.jpg" />
+    <Content Include="images\Images\videoIconsel.jpg" />
+    <Content Include="images\Images\VideoImage.jpg" />
+    <Content Include="images\Images\VideoImage1.png" />
+    <Content Include="images\Images\VideoImage2.png" />
+    <Content Include="images\Images\VideoImageForList.png" />
+    <Content Include="images\Images\VideoNewsBig.jpg" />
+    <Content Include="images\Images\volumeNor.png" />
+    <Content Include="images\Images\volumeSel.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\SmallLiveTile1.jpg" />
+    <Content Include="images\SmallLiveTile2.jpg" />
+    <Content Include="images\smalllogo.png" />
+    <Content Include="images\splashscreen.png" />
+    <Content Include="images\storelogo.png" />
+    <Content Include="images\Videos\picCon2.png" />
+    <Content Include="images\Videos\picCon3.png" />
+    <Content Include="images\Videos\play.png" />
+    <Content Include="images\Videos\VideoImageForList.png" />
+    <Content Include="images\Videos\VideoNewsBig.png" />
+    <Content Include="images\Videos\Vidtbg.png" />
+    <Content Include="images\Videos\VidtbgHover.png" />
+    <Content Include="images\widelogo.png" />
+    <Content Include="js\data.js" />
+    <Content Include="js\default.js" />
+    <Content Include="js\itemDetailData.js" />
+    <Content Include="js\navigator.js" />
+    <Content Include="pages\aboutUs\aboutUs.css" />
+    <Content Include="pages\aboutUs\aboutUs.html" />
+    <Content Include="pages\aboutUs\aboutUs.js" />
+    <Content Include="pages\ArticlesDetail\ArticlesDetail.css" />
+    <Content Include="pages\ArticlesDetail\ArticlesDetail.html" />
+    <Content Include="pages\ArticlesDetail\ArticlesDetail.js" />
+    <Content Include="pages\Articles\Articles.css" />
+    <Content Include="pages\Articles\Articles.html" />
+    <Content Include="pages\Articles\Articles.js" />
+    <Content Include="pages\contactUs\contactUs.css" />
+    <Content Include="pages\contactUs\contactUs.html" />
+    <Content Include="pages\contactUs\contactUs.js" />
+    <Content Include="pages\groupDetail\groupDetail.css" />
+    <Content Include="pages\groupDetail\groupDetail.html" />
+    <Content Include="pages\groupDetail\groupDetail.js" />
+    <Content Include="pages\itemDetail\itemDetail.css" />
+    <Content Include="pages\itemDetail\itemDetail.html" />
+    <Content Include="pages\itemDetail\itemDetail.js" />
+    <Content Include="pages\groupedItems\groupedItems.css" />
+    <Content Include="pages\groupedItems\groupedItems.html" />
+    <Content Include="pages\groupedItems\groupedItems.js" />
+    <Content Include="default.html" />
+    <Content Include="pages\privacyPolicy\privacyPolicy.css" />
+    <Content Include="pages\privacyPolicy\privacyPolicy.html" />
+    <Content Include="pages\privacyPolicy\privacyPolicy.js" />
+    <Content Include="pages\termsAndCondition\termsAndCondition.css" />
+    <Content Include="pages\termsAndCondition\termsAndCondition.html" />
+    <Content Include="pages\termsAndCondition\termsAndCondition.js" />
+    <Content Include="pages\Videos\Videos.css" />
+    <Content Include="pages\Videos\Videos.html" />
+    <Content Include="pages\Videos\Videos.js" />
+    <None Include="NewsTemplate_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

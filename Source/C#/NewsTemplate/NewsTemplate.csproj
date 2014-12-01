@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F18E8239-C35A-4519-BB0A-F83FD1362651}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChannelMTemplate</RootNamespace>
+    <AssemblyName>ChannelMTemplate</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>NewsTemplate_StoreKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateThumbprint>90ED71D4BB2151CEC8CABC3E7C1B27B889273F05</PackageCertificateThumbprint>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <TargetFrameworkVersion />
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ArticlesDetail.xaml.cs">
+      <DependentUpon>ArticlesDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="setTitle.cs" />
+    <Compile Include="EnableLiveTile\Common.cs" />
+    <Compile Include="EnableLiveTile\ContentInterfaces.cs" />
+    <Compile Include="EnableLiveTile\CreateLiveTile.cs" />
+    <Compile Include="EnableLiveTile\TileContent.cs" />
+    <Compile Include="GroupedItemsPage.xaml.cs">
+      <DependentUpon>GroupedItemsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GroupDetailPage.xaml.cs">
+      <DependentUpon>GroupDetailPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryDetail.xaml.cs">
+      <DependentUpon>HistoryDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DataModel\SampleDataSource.cs" />
+    <Compile Include="Common\BindableBase.cs" />
+    <Compile Include="Common\BooleanToVisibilityConverter.cs" />
+    <Compile Include="Common\BooleanNegationConverter.cs" />
+    <Compile Include="Common\LayoutAwarePage.cs" />
+    <Compile Include="Common\RichTextColumns.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="SettingsFlyouts\AboutUs.xaml.cs">
+      <DependentUpon>AboutUs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsFlyouts\ContactUs.xaml.cs">
+      <DependentUpon>ContactUs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsFlyouts\PrivacyPolicy.xaml.cs">
+      <DependentUpon>PrivacyPolicy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsFlyouts\TermsAndConditions.xaml.cs">
+      <DependentUpon>TermsAndConditions.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VidesDetail.xaml.cs">
+      <DependentUpon>VidesDetail.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="Common\ReadMe.txt" />
+    <None Include="NewsTemplate_StoreKey.pfx" />
+    <None Include="NewsTemplate_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\AppLogo.png" />
+    <Content Include="Assets\Images\AllImage.jpg" />
+    <Content Include="Assets\Images\appLogo.png" />
+    <Content Include="Assets\Images\artNor.jpg" />
+    <Content Include="Assets\Images\artSelected.jpg" />
+    <Content Include="Assets\Images\background.jpg" />
+    <Content Include="Assets\Images\background1.jpg" />
+    <Content Include="Assets\Images\Bg.jpg" />
+    <Content Include="Assets\Images\BigLiveTile1.jpg" />
+    <Content Include="Assets\Images\BigLiveTile2.jpg" />
+    <Content Include="Assets\Images\BtnPlay.png" />
+    <Content Include="Assets\Images\fullscreen.png" />
+    <Content Include="Assets\Images\helping-hands.jpg" />
+    <Content Include="Assets\Images\NewsImage.jpg" />
+    <Content Include="Assets\Images\NewsImage1.jpg" />
+    <Content Include="Assets\Images\NewsImageForList.png" />
+    <Content Include="Assets\Images\pause.png" />
+    <Content Include="Assets\Images\playNor.png" />
+    <Content Include="Assets\Images\play.png" />
+    <Content Include="Assets\Images\setting.png" />
+    <Content Include="Assets\Images\SmallLiveTile1.jpg" />
+    <Content Include="Assets\Images\SmallLiveTile2.jpg" />
+    <Content Include="Assets\Images\thumb.png" />
+    <Content Include="Assets\Images\upArrow.png" />
+    <Content Include="Assets\Images\videoIcon.jpg" />
+    <Content Include="Assets\Images\videoIconsel.jpg" />
+    <Content Include="Assets\Images\VideoImage.jpg" />
+    <Content Include="Assets\Images\VideoImageForList.png" />
+    <Content Include="Assets\Images\VideoNewsBig.jpg" />
+    <Content Include="Assets\Images\volumeNor.png" />
+    <Content Include="Assets\Images\volumeSel.png" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\NovelImages\永恒之井.jpg" />
+    <Content Include="Assets\NovelImages\天崩地裂.jpg" />
+    <Content Include="Assets\NovelImages\恶魔之魂.jpg" />
+    <Content Include="Assets\NovelImages\仇恨之轮.jpg" />
+    <Content Include="Assets\NovelImages\战争之潮.jpg" />
+    <Content Include="Assets\NovelImages\浩劫的前奏.jpg" />
+    <Content Include="Assets\NovelImages\巨龙之夜.jpg" />
+    <Content Include="Assets\NovelImages\巨龙时代.jpg" />
+    <Content Include="Assets\NovelImages\怒风.jpg" />
+    <Content Include="Assets\NovelImages\最后的守护者.jpg" />
+    <Content Include="Assets\NovelImages\氏族之王.jpg" />
+    <Content Include="Assets\NovelImages\狼族之心.jpg" />
+    <Content Include="Assets\NovelImages\龙王之暮.jpg" />
+    <Content Include="Assets\NovelImages\血与荣耀.jpg" />
+    <Content Include="Assets\NovelImages\诅咒之路.jpg" />
+    <Content Include="Assets\NovelImages\部落的崛起.jpg" />
+    <Content Include="Assets\NovelImages\巫妖王的崛起.jpg" />
+    <Content Include="Assets\NovelImages\黑暗之潮.jpg" />
+    <Content Include="Assets\NovelImages\黑暗之门.jpg" />
+    <Content Include="Assets\Novel\仇恨之轮.txt" />
+    <Content Include="Assets\Novel\吉安娜·普罗德摩尔：战争之潮.txt" />
+    <Content Include="Assets\Novel\巨龙时代.txt" />
+    <Content Include="Assets\Novel\上古三部曲一：永恒之井.txt" />
+    <Content Include="Assets\Novel\上古三部曲二：恶魔之魂.txt" />
+    <Content Include="Assets\Novel\上古三部曲三：天崩地裂.txt" />
+    <Content Include="Assets\Novel\巨龙之夜.txt" />
+    <Content Include="Assets\Novel\部落的崛起.txt" />
+    <Content Include="Assets\Novel\黑暗之潮.txt" />
+    <Content Include="Assets\Novel\黑暗之门.txt" />
+    <Content Include="Assets\Novel\阿尔萨斯：巫妖王的崛起.txt" />
+    <Content Include="Assets\Novel\怒风.txt" />
+    <Content Include="Assets\Novel\天崩地裂：浩劫的前奏.txt" />
+    <Content Include="Assets\Novel\萨尔：龙王之暮.txt" />
+    <Content Include="Assets\Novel\狼族之心.txt" />
+    <Content Include="Assets\Novel\最后的守护者.txt" />
+    <Content Include="Assets\Novel\氏族之王.txt" />
+    <Content Include="Assets\Novel\血与荣耀.txt" />
+    <Content Include="Assets\Novel\诅咒之路.txt" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\Square310x310Logo.scale-100.jpg" />
+    <Content Include="Assets\Square70x70Logo.scale-100.png" />
+    <Content Include="Assets\LightGray.png" />
+    <Content Include="Assets\MediumGray.png" />
+    <Content Include="Assets\DarkGray.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\TimeImages\1.jpg" />
+    <Content Include="Assets\TimeImages\10.jpg" />
+    <Content Include="Assets\TimeImages\11.jpg" />
+    <Content Include="Assets\TimeImages\12.jpg" />
+    <Content Include="Assets\TimeImages\13.jpg" />
+    <Content Include="Assets\TimeImages\14.jpg" />
+    <Content Include="Assets\TimeImages\15.jpg" />
+    <Content Include="Assets\TimeImages\16.jpg" />
+    <Content Include="Assets\TimeImages\17.jpg" />
+    <Content Include="Assets\TimeImages\18.jpg" />
+    <Content Include="Assets\TimeImages\19.jpg" />
+    <Content Include="Assets\TimeImages\2.jpg" />
+    <Content Include="Assets\TimeImages\20.jpg" />
+    <Content Include="Assets\TimeImages\21.jpg" />
+    <Content Include="Assets\TimeImages\22.jpg" />
+    <Content Include="Assets\TimeImages\23.jpg" />
+    <Content Include="Assets\TimeImages\24.jpg" />
+    <Content Include="Assets\TimeImages\25.jpg" />
+    <Content Include="Assets\TimeImages\26.jpg" />
+    <Content Include="Assets\TimeImages\27.jpg" />
+    <Content Include="Assets\TimeImages\28.jpg" />
+    <Content Include="Assets\TimeImages\29.jpg" />
+    <Content Include="Assets\TimeImages\3.jpg" />
+    <Content Include="Assets\TimeImages\30.jpg" />
+    <Content Include="Assets\TimeImages\31.jpg" />
+    <Content Include="Assets\TimeImages\32.jpg" />
+    <Content Include="Assets\TimeImages\33.jpg" />
+    <Content Include="Assets\TimeImages\34.jpg" />
+    <Content Include="Assets\TimeImages\35.jpg" />
+    <Content Include="Assets\TimeImages\36.jpg" />
+    <Content Include="Assets\TimeImages\37.jpg" />
+    <Content Include="Assets\TimeImages\38.jpg" />
+    <Content Include="Assets\TimeImages\39.jpg" />
+    <Content Include="Assets\TimeImages\4.jpg" />
+    <Content Include="Assets\TimeImages\40.jpg" />
+    <Content Include="Assets\TimeImages\41.jpg" />
+    <Content Include="Assets\TimeImages\42.jpg" />
+    <Content Include="Assets\TimeImages\43.jpg" />
+    <Content Include="Assets\TimeImages\44.jpg" />
+    <Content Include="Assets\TimeImages\45.jpg" />
+    <Content Include="Assets\TimeImages\46.jpg" />
+    <Content Include="Assets\TimeImages\47.jpg" />
+    <Content Include="Assets\TimeImages\48.jpg" />
+    <Content Include="Assets\TimeImages\49.jpg" />
+    <Content Include="Assets\TimeImages\5.jpg" />
+    <Content Include="Assets\TimeImages\50.jpg" />
+    <Content Include="Assets\TimeImages\51.jpg" />
+    <Content Include="Assets\TimeImages\52.jpg" />
+    <Content Include="Assets\TimeImages\53.jpg" />
+    <Content Include="Assets\TimeImages\54.jpg" />
+    <Content Include="Assets\TimeImages\55.jpg" />
+    <Content Include="Assets\TimeImages\56.jpg" />
+    <Content Include="Assets\TimeImages\57.jpg" />
+    <Content Include="Assets\TimeImages\6.jpg" />
+    <Content Include="Assets\TimeImages\7.jpg" />
+    <Content Include="Assets\TimeImages\8.jpg" />
+    <Content Include="Assets\TimeImages\9.jpg" />
+    <Content Include="Assets\TimeList\时间线.txt" />
+    <Content Include="Assets\VideoImages\2.png" />
+    <Content Include="Assets\VideoImages\3.png" />
+    <Content Include="Assets\VideoImages\4.png" />
+    <Content Include="Assets\VideoImages\5.png" />
+    <Content Include="Assets\VideoImages\6.png" />
+    <Content Include="Assets\VideoImages\1.png" />
+    <Content Include="Assets\Videos\《魔兽世界》.mp4" />
+    <Content Include="Assets\Videos\《魔兽世界：大地的裂变》.mp4" />
+    <Content Include="Assets\Videos\《魔兽世界：巫妖王之怒》.mp4" />
+    <Content Include="Assets\Videos\《魔兽世界：德拉诺之王》.mp4" />
+    <Content Include="Assets\Videos\《魔兽世界：熊猫人之谜》.mp4" />
+    <Content Include="Assets\Videos\《魔兽世界：燃烧的远征》.mp4" />
+    <Content Include="Assets\widelogo.scale-100.png" />
+    <None Include="Package.StoreAssociation.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="ArticlesDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Common\StandardStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GroupedItemsPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GroupDetailPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="HistoryDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SettingsFlyouts\AboutUs.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SettingsFlyouts\ContactUs.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SettingsFlyouts\PrivacyPolicy.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SettingsFlyouts\TermsAndConditions.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="VidesDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

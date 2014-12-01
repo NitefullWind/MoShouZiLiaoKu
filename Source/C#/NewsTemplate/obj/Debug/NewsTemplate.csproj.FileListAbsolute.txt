@@ -1,0 +1,226 @@
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\App.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\ArticlesDetail.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\Common\StandardStyles.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\GroupedItemsPage.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\GroupDetailPage.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\AboutUs.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\ContactUs.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\PrivacyPolicy.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\TermsAndConditions.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\VidesDetail.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.xr.xml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.exe
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.pdb
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\resources.pri
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\AppxManifest.xml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\NewsTemplate.build.appxrecipe
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\App.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\App.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\VidesDetail.g.i.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\VidesDetail.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\XamlTypeInfo.g.cs
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\App.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\VidesDetail.xaml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\App.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\VidesDetail.xbf
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\XamlSaveStateFile.xml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ChannelMTemplate.exe
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ChannelMTemplate.pdb
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\priconfig.xml
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\priconfig.xml.intermediate
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\layout.resfiles
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\layout.resfiles.intermediate
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\resources.resfiles
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\resources.resfiles.intermediate
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\pri.resfiles
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\pri.resfiles.intermediate
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\qualifiers.txt
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\qualifiers.txt.intermediate
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\c#\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ProjectArchitectures.txt
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\App.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\ArticlesDetail.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\Common\StandardStyles.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\GroupedItemsPage.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\GroupDetailPage.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\AboutUs.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\ContactUs.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\PrivacyPolicy.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\TermsAndConditions.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\VidesDetail.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.xr.xml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.exe
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.pdb
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\resources.pri
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\AppxManifest.xml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\NewsTemplate.build.appxrecipe
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\App.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\App.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\VidesDetail.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\VidesDetail.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\XamlTypeInfo.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\App.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\VidesDetail.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\App.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\VidesDetail.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\XamlSaveStateFile.xml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ChannelMTemplate.exe
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ChannelMTemplate.pdb
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\priconfig.xml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\priconfig.xml.intermediate
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\layout.resfiles
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\layout.resfiles.intermediate
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\resources.resfiles
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\resources.resfiles.intermediate
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\pri.resfiles
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\pri.resfiles.intermediate
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\qualifiers.txt
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\qualifiers.txt.intermediate
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\ProjectArchitectures.txt
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\bin\Debug\HistoryDetail.xbf
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\HistoryDetail.g.i.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\HistoryDetail.g.cs
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\HistoryDetail.xaml
+E:\windowsAPP\News Template v 1.0.0.0\Source\C#\NewsTemplate\obj\Debug\HistoryDetail.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\App.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\ArticlesDetail.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\Common\StandardStyles.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\GroupedItemsPage.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\GroupDetailPage.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\HistoryDetail.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\AboutUs.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\ContactUs.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\PrivacyPolicy.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\SettingsFlyouts\TermsAndConditions.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\VidesDetail.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.xr.xml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.exe
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\ChannelMTemplate.pdb
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\resources.pri
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\AppxManifest.xml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\bin\Debug\NewsTemplate.build.appxrecipe
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\App.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\App.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\HistoryDetail.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\HistoryDetail.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\VidesDetail.g.i.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\VidesDetail.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\XamlTypeInfo.g.cs
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\App.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\HistoryDetail.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\VidesDetail.xaml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\App.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\ArticlesDetail.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\Common\StandardStyles.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\GroupedItemsPage.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\GroupDetailPage.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\HistoryDetail.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\AboutUs.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\ContactUs.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\PrivacyPolicy.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\SettingsFlyouts\TermsAndConditions.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\VidesDetail.xbf
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\XamlSaveStateFile.xml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\ChannelMTemplate.exe
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\ChannelMTemplate.pdb
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\priconfig.xml
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\priconfig.xml.intermediate
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\layout.resfiles
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\layout.resfiles.intermediate
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\resources.resfiles
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\resources.resfiles.intermediate
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\pri.resfiles
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\pri.resfiles.intermediate
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\qualifiers.txt
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\qualifiers.txt.intermediate
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\windowsAPP\魔兽资料库\Source\C#\NewsTemplate\obj\Debug\ProjectArchitectures.txt

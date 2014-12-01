@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Login</title>
+
+    <link href="login.css" rel="stylesheet" />
+    <script src="login.js"></script>
+</head>
+<body>
+    <!-- BEGINSETTINGFLYOUT -->
+    <div data-win-control="WinJS.UI.SettingsFlyout" id="privacyPolicy" aria-label="Help settings flyout" data-win-options="{settingsCommandId:'aboutUs',width:'small'}" style="visibility: visible; background-color: rgba(0, 0, 0, 0.950);">
+        <div class="win-ui-dark win-header">
+            <!-- Background color reflects app's personality -->
+            <button type="button" onclick="WinJS.UI.SettingsFlyout.show()" class="win-backbutton" style="color: white;"></button>
+            <div class="win-label" style="color: white;">Privacy Policy</div>
+        </div>
+        <div class="loginMainLoginDiv" style="margin-left: 50px; margin-top: 30px;">
+            Your content goes here or you can redirect to a web resource.
+        </div>
+    </div>
+    <!-- ENDSETTINGSFLYOUT -->
+</body>
+</html>
